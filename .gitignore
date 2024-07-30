@@ -1,0 +1,11 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs
+/FHIR.Client.Demo/.vs/FHIR.Client.Demo
+/FHIR.Client.Demo/FHIR.Demo.Client/obj
+/FHIR.Client.Demo/FHIR.Demo.Client/FHIR.Demo.Client.csproj
+/FHIR.Client.Demo/FHIR.Demo.Model/obj/Debug
+/FHIR.Client.Demo/FHIR.Demo.ModelMapping/obj/Debug
+/FHIR.Client.Demo/packages
